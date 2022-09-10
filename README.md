@@ -1,6 +1,10 @@
 ### Hi there 👋 Shreyash here!!!
 A structural engineer by profession & data science learner
 
+I’m currently working on upgrading my skills as a data scientist
+I’m currently learning Statistics and Python
+Kaggle Link: https://www.kaggle.com/sshreyash
+
 <!--
 **s-shreyash/s-shreyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
