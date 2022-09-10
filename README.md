@@ -1,8 +1,10 @@
 ### Hi there 👋 Shreyash here!!!
-A structural engineer by profession & data science learner
+A structural engineer by profession & data science learner.
 
-I’m currently working on upgrading my skills as a data scientist
-I’m currently learning Statistics and Python
+I’m currently working on upgrading my skills as a data scientist.
+
+I’m currently learning Statistics and Python.
+
 Kaggle Link: https://www.kaggle.com/sshreyash
 
 <!--
