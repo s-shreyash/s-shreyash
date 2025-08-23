@@ -1,22 +1,20 @@
-### Hi there 👋 Shreyash here!!!
-A structural engineer by profession & data science learner.
+# Hi, I’m Shreyash 👋  
 
-I’m currently working on upgrading my skills as a data scientist.
+🌍 Civil Engineer | 📈 Transitioning into Finance + Agentic AI | 🤖 Automator & Tech Explorer  
 
-I’m currently learning Statistics and Python.
+### 👨‍💻 About Me  
+- 🏗️ Civil Engineer working in **oil & gas plant design consulting**  
+- 📊 Beginner in **stock trading**, exploring AI-powered investing  
+- ⚡ Known for **automating repetitive tasks** (Excel wizardry & beyond 🚀)  
+- 🌱 Currently learning **Python, No-Code AI, and Generative AI**  
+- 🏍️ Passionate about **bike trips & exploring new places**  
 
-Kaggle Link: https://www.kaggle.com/sshreyash
+### 🔧 Tech & Tools  
+- **Languages:** Python (learning), Excel VBA, Markdown  
+- **AI & Data:** Generative AI, No-Code AI platforms (early stage)  
+- **Other Skills:** Process automation, problem-solving, trading basics  
 
-<!--
-**s-shreyash/s-shreyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-  I’m currently working on upgrading my skills as a data scientist
-  I’m currently learning Statistics and Python
-- 👯 I’m looking to collaborate on ...
-  I’m looking for help with how to showcase my acquired skills on a public platform
-  Kaggle Link: https://www.kaggle.com/sshreyash
-- Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals  
+- Build **real-world Agentic AI projects in FinTech**  
+- Apply AI to **finance & stock trading** use cases  
+- Share my learning journey here on GitHub  
